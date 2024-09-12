@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahit\\source\\repos\\RecruitCatBandish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\recruitcatbandish\\recruitcatbandish\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\recruitcatbandish\\recruitcatbandish\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahit\\source\\repos\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBandish\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T02:29:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OurTeam.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\RecruitCatBandish\\RecruitCatBandish\\Pages\\OurTeam.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\OurTeam.cshtml",
+              "ToolTip": "C:\\Users\\sahit\\source\\repos\\RecruitCatBandish\\RecruitCatBandish\\Pages\\OurTeam.cshtml",
+              "RelativeToolTip": "RecruitCatBandish\\Pages\\OurTeam.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:57:31.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

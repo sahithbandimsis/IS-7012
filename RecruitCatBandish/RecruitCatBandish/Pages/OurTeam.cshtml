@@ -1,0 +1,111 @@
+﻿@page
+@model OurTeamModel
+@{
+    ViewData["Title"] = "Our Team";
+}
+
+<!-- Background color for the body -->
+<style>
+    body {
+        background-color: #f5f5f5; /* Light grey background */
+    }
+
+    .team-section {
+        padding: 50px 0;
+    }
+
+    .team-member {
+        background-color: #ffffff; /* White card background */
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        .team-member img {
+            border-radius: 50%;
+            margin-bottom: 15px;
+        }
+
+        .team-member h3 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff; /* Blue color for names */
+        }
+
+        .team-member p {
+            color: #555; /* Grey color for text */
+        }
+
+        .team-member a {
+            color: #007bff; /* Blue color for LinkedIn links */
+            text-decoration: none;
+        }
+
+            .team-member a:hover {
+                text-decoration: underline;
+            }
+
+    .jumbotron {
+        background-color: #007bff; /* Blue background for jumbotron */
+        color: #ffffff; /* White text color */
+    }
+
+        .jumbotron p {
+            color: #e0e0e0; /* Light grey text color for subtitle */
+        }
+
+    .row.mt-5 h2 {
+        color: #28a745; /* Green color for headings */
+    }
+
+    .row.mt-5 p {
+        color: #343a40; /* Dark grey color for contact details */
+    }
+</style>
+
+<!-- Header Section -->
+<div class="jumbotron text-center">
+    <h1 class="display-4">Meet Our Team</h1>
+    <p class="lead">Innovative recruitment solutions, powered by talented professionals.</p>
+</div>
+
+<!-- Team Members Section -->
+<div class="container team-section">
+    <div class="row">
+        <!-- Team Member 1: Sahith Bandi -->
+        <div class="col-md-4 text-center team-member">
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQHPLTrgZP5cqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725458530968?e=1731542400&v=beta&t=6CY7B6-7jJcYmFtBCObRastxakuE6Opk69SBrhUjMA8" class="rounded-circle img-fluid" alt="Sahith Bandi" width="150" height="150">
+            <h3>Sahith Bandi</h3>
+            <p><strong>Co-founder and CEO</strong></p>
+            <p>Sahith’s comprehensive experience and sound knowledge of building business processes, high-performance teams, and delivering enterprise-level solutions using various technology stacks positions him to lead RecruitCatBandish’s strategic initiatives.</p>
+            <p><a href="https://www.linkedin.com/in/sahith-bandi/" target="_blank">LinkedIn Profile</a></p>
+        </div>
+
+        <!-- Team Member 2: Ashika Ranganathan -->
+        <div class="col-md-4 text-center team-member">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2dmxX-wWjuA4huW5IeOwuK6JRRct-5SgwA&s" class="rounded-circle img-fluid" alt="Ashika Ranganathan" width="150" height="150">
+            <h3>Ashika Ranganathan</h3>
+            <p><strong>Co-founder and Director</strong></p>
+            <p>With over two decades of IT experience and stints at Infosys and Amazon, Ashika co-founded RecruitCatBandish in 2011. Her expertise in data insights and team-building are fundamental to the organization’s success.</p>
+            <p><a href="https://www.linkedin.com/in/sahith-bandi/" target="_blank">LinkedIn Profile</a></p>
+        </div>
+
+        <!-- Team Member 3: Mahesh babu -->
+        <div class="col-md-4 text-center team-member">
+            <img src="https://images.cnbctv18.com/uploads/2024/07/mahesh-babu-ambani-wedding-2024-07-b10de06ed1f26d4be7e14ebd7ea73117.jpg?impolicy=website&width=640&height=360" class="rounded-circle" alt="Mahesh babu" width="150" height="150">
+            <h3>Mahesh babu</h3>
+            <p><strong>Co-founder and CFO</strong></p>
+            <p>Mahesh babu leads RecruitCatBandish’s sales, marketing, and financial operations. With a background in finance and entrepreneurship, Mahesh babu has 25 years of professional experience.</p>
+            <p><a href="https://www.linkedin.com/in/sahith-bandi/" target="_blank">LinkedIn Profile</a></p>
+        </div>
+    </div>
+</div>
+
+<!-- Contact Us Section -->
+<div class="row mt-5">
+    <div class="col-md-12 text-center">
+        <h2>Contact Us</h2>
+        <p><strong>Address:</strong> 3405 Middleton Ave, Cincinnati, OH</p>
+        <p><strong>Phone:</strong> (513) 512-8743</p>
+    </div>
+</div>
