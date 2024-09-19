@@ -1,7 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using RecruitCatBandish.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<RecruitCatBandishContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitCatBandishContext") ?? throw new InvalidOperationException("Connection string 'RecruitCatBandishContext' not found.")));
 
 var app = builder.Build();
 

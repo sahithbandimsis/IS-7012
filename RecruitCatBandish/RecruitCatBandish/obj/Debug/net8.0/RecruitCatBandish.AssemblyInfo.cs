@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecruitCatBandish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e070f62360f710e594c9244cbcdf2eaba1c3dac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964a0a3adff7eaee939b647f8c16080cedf8c0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecruitCatBandish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecruitCatBandish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
