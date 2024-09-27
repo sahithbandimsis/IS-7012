@@ -28,7 +28,7 @@ namespace RecruitCatBandish.Pages.Accounts
                 return NotFound();
             }
 
-            var accountholder = await _context.AccountHolder.FirstOrDefaultAsync(m => m.Id == id);
+            var accountholder = await _context.AccountHolder. Include(b =>b.BankAccount).FirstOrDefaultAsync(m => m.Id == id);
             if (accountholder == null)
             {
                 return NotFound();

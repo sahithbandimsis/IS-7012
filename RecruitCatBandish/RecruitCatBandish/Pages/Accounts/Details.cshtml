@@ -5,10 +5,42 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h1>Account Holder Details Page</h1>
+@if (Model.AccountHolder.BankAccount.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(Model =>  Model.AccountHolder.BankAccount[0].AccountName)</th>
+                <th>@Html.DisplayNameFor(Model => Model.AccountHolder.BankAccount[0].AccountType)</th>
+                <th>@Html.DisplayNameFor(Model => Model.AccountHolder.BankAccount[0].AccountHolderId)</th>
+                <th> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.AccountHolder.BankAccount)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.AccountName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AccountType)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AccountHolderId)</td>
+                    <td> 
+                        <a asp-page="/Banks/Details" asp-route-id ="@item.AccountHolderId"> Deets here</a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <th>Total Balance</th>
+                <th>@Model.AccountHolder.BankAccount.Sum(b => b.CurrentBalance)</th>
+
+            </tr>
+        </tbody>
+    </table>
+}
+
 
 <div>
-    <h4>AccountHolder</h4>
+    <h4>Account Holder Details are below</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -42,8 +74,11 @@
             @Html.DisplayFor(model => model.AccountHolder.PhoneNumber)
         </dd>
     </dl>
-</div>
-<div>
+    </div>
+
+   
+    <div>
     <a asp-page="./Edit" asp-route-id="@Model.AccountHolder.Id">Edit</a> |
     <a asp-page="./Index">Back to List</a>
 </div>
+

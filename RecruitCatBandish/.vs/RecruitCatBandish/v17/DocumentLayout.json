@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\",
+  "WorkspaceRootPath": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\desktop\\fall24msis\\is-7012\\recruitcatbandish\\recruitcatbandish\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\models\\job title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\models\\job title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\desktop\\fall24msis\\is-7012\\recruitcatbandish\\recruitcatbandish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\desktop\\fall24msis\\is-7012\\recruitcatbandish\\recruitcatbandish\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\source\\repos\\sahithbandimsis\\is-7012\\recruitcatbandish\\recruitcatbandish\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|c:\\users\\sahit\\desktop\\fall24msis\\is-7012\\recruitcatbandish\\recruitcatbandish\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FAF194F-4F95-4672-AEA1-28F14052D3BC}|RecruitCatBandish\\RecruitCatBandish.csproj|solutionrelative:recruitcatbandish\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Job Title.cs",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Job Title.cs",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Models\\Job Title.cs",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Job Title.cs",
-              "RelativeToolTip": "RecruitCatBandish\\Models\\Job Title.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:40:38.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Industry.cs",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Industry.cs",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Models\\Industry.cs",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Industry.cs",
-              "RelativeToolTip": "RecruitCatBandish\\Models\\Industry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:40:02.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Company.cs",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Models\\Company.cs",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Company.cs",
-              "RelativeToolTip": "RecruitCatBandish\\Models\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:39:31.757Z"
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RecruitCatBandish\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T01:19:09.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Candidate.cs",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Models\\Candidate.cs",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Models\\Candidate.cs",
-              "RelativeToolTip": "RecruitCatBandish\\Models\\Candidate.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T20:38:13.748Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Companies\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\Companies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Companies\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatBandish\\Pages\\Companies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T01:18:17.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Index.cshtml",
-              "RelativeToolTip": "RecruitCatBandish\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBandish\\Pages\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAE4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T02:29:51.724Z"
+              "WhenOpened": "2024-09-27T01:03:01.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OurTeam.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\OurTeam.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\OurTeam.cshtml",
-              "ToolTip": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\OurTeam.cshtml",
-              "RelativeToolTip": "RecruitCatBandish\\Pages\\OurTeam.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswFkAAABBAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBandish\\Pages\\Candidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\Pages\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatBandish\\Pages\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T23:57:31.128Z"
+              "WhenOpened": "2024-09-27T01:02:58.871Z"
             }
           ]
         }

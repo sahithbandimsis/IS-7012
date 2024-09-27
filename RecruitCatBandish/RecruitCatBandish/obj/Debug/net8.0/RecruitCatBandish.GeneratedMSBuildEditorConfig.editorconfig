@@ -17,63 +17,151 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitCatBandish
 build_property.RootNamespace = RecruitCatBandish
-build_property.ProjectDir = C:\Users\sahit\source\repos\sahithbandimsis\IS-7012\RecruitCatBandish\RecruitCatBandish\
+build_property.ProjectDir = C:\Users\sahit\Desktop\FALL24MSIS\IS-7012\RecruitCatBandish\RecruitCatBandish\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sahit\source\repos\sahithbandimsis\IS-7012\RecruitCatBandish\RecruitCatBandish
+build_property.MSBuildProjectDirectory = C:\Users\sahit\Desktop\FALL24MSIS\IS-7012\RecruitCatBandish\RecruitCatBandish
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Create.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Delete.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Details.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Edit.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Index.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Accounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Banks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Banks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/OurTeam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Banks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Privacy.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Banks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Banks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Industries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Industries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Industries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Industries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Industries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/JobTitles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/JobTitles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/JobTitles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/JobTitles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/JobTitles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/_ViewImports.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/_ViewStart.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahit/source/repos/sahithbandimsis/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Shared/_Layout.cshtml]
+[C:/Users/sahit/Desktop/FALL24MSIS/IS-7012/RecruitCatBandish/RecruitCatBandish/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-phksf1lq4f

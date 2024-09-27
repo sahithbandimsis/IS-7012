@@ -7722,11 +7722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\RecruitCatBandish.csproj",
+      "projectUniqueName": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\RecruitCatBandish.csproj",
       "projectName": "RecruitCatBandish",
-      "projectPath": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\RecruitCatBandish.csproj",
+      "projectPath": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\RecruitCatBandish.csproj",
       "packagesPath": "C:\\Users\\sahit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sahit\\source\\repos\\sahithbandimsis\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\obj\\",
+      "outputPath": "C:\\Users\\sahit\\Desktop\\FALL24MSIS\\IS-7012\\RecruitCatBandish\\RecruitCatBandish\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sahit\\AppData\\Roaming\\NuGet\\NuGet.Config",
